@@ -1,6 +1,1 @@
-hello atguigu
-hello atguigu
-hello atguigu
-hello atguigu
-hello atguigu
-hello atguigu2
+hello
